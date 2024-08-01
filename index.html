@@ -4,28 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Moodwithme</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <div class="logo">
-            <h1>Moodwithme</h1>
-        </div>
-        <nav>
-            <ul>
-                <li><a href="anger.html">Anger</a></li>
-                <li><a href="sad.html">Sad</a></li>
-                <li><a href="happy.html">Happy</a></li>
-                <li><a href="overthinking.html">Overthinking</a></li>
-                <li><a href="stressed.html">Stressed</a></li>
-                <li><a href="irritated.html">Irritated</a></li>
-                <li><a href="fear.html">Fear</a></li>
-                <li><a href="emotional.html">Emotional</a></li>
-                <li><a href="lonely.html">Lonely</a></li>
-                <li><a href="missingme.html">Missing Me</a></li>
-                <li><a href="missingfamily.html">Missing Family</a></li>
-            </ul>
-        </nav>
+        <h1>Moodwithme</h1>
     </header>
     <main>
         <section class="content">
@@ -35,7 +18,44 @@
                 <!-- Shayari will be inserted here by JavaScript -->
             </blockquote>
         </section>
+
+        <div class="circles-container">
+            <div class="circle" data-mood="anger">Anger</div>
+            <div class="circle" data-mood="sad">Sad</div>
+            <div class="circle" data-mood="happy">Happy</div>
+            <div class="circle" data-mood="overthinking">Overthinking</div>
+            <div class="circle" data-mood="stressed">Stressed</div>
+            <div class="circle" data-mood="irritated">Irritated</div>
+            <div class="circle" data-mood="fear">Fear</div>
+            <div class="circle" data-mood="emotional">Emotional</div>
+            <div class="circle" data-mood="lonely">Lonely</div>
+            <div class="circle" data-mood="missing-me">Missing Me</div>
+            <div class="circle" data-mood="missing-family">Missing Family</div>
+            <div class="circle" data-mood="confused">Confused</div>
+        </div>
     </main>
-    <script src="js/script.js"></script>
+
+    <!-- Gift Box Modal -->
+    <div id="giftBoxModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeGiftBox()">&times;</span>
+            <h2>Surprise!</h2>
+            <div class="gift-box" onclick="openGiftContent()"></div>
+        </div>
+    </div>
+
+    <!-- Mood Content Modal -->
+    <div id="moodContentModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeContent()">&times;</span>
+            <div id="mood-content"></div>
+        </div>
+    </div>
+
+    <footer>
+        <p>All Right Reserve &copy; 2024 Moodwithme</p>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>
