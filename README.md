@@ -1,12 +1,12 @@
-# 🎁 UThings: A Customized Gift for My Special Someone
+# 🎁 UssThings: A Customized Gift for My Special Someone
 
 ## 📌 About UThings
 
-**UThings** is a heart-to-heart project created using **HTML**, **CSS**, and **JavaScript**. As a proud tech enthusiast currently diving into JavaScript and the MERN stack, I crafted this special gift for my beloved. UThings is a constant reminder of my passion for learning and my commitment to building a bright future together. 🌟
+**UssThings** is a heart-to-heart project created using **HTML**, **CSS**, and **JavaScript**. As a proud tech enthusiast currently diving into JavaScript and the MERN stack, I crafted this special gift for my beloved. UThings is a constant reminder of my passion for learning and my commitment to building a bright future together. 🌟
 
 ## 💖 Purpose of the Project
 
-UThings isn’t just any simple project; it’s a token of love and dedication! I wanted to whip up something truly unique that reflects my efforts and shows off my tech skills. This project symbolizes that my gifts will always be one-of-a-kind and filled with love, representing the thoughtfulness and care I put into creating them. 💕
+UssThings isn’t just any simple project; it’s a token of love and dedication! I wanted to whip up something truly unique that reflects my efforts and shows off my tech skills. This project symbolizes that my gifts will always be one-of-a-kind and filled with love, representing the thoughtfulness and care I put into creating them. 💕
 
 ## 🚀 Features
 
@@ -22,7 +22,7 @@ UThings isn’t just any simple project; it’s a token of love and dedication! 
 
 ## 🔗 Live Demo
 
-Check out the live demo of UThings here: [UThings on Netlify](https://usthings.netlify.app/) 🎉
+Check out the live demo of UsThings here: [UsThings on Netlify](https://usthings.netlify.app/) 🎉
 
 ## 🔧 Installation
 
@@ -48,4 +48,4 @@ Email: moxikavaghela15123@gmail.com
 
 ## 🙏 A Big Thank You!
 
-Thanks a ton for checking out UThings! I hope this project sparks some inspiration to blend your love for technology with the special bonds in your life. Keep rocking, and let’s build a future filled with creativity and love! 🎉✨
+Thanks a ton for checking out UsThings! I hope this project sparks some inspiration to blend your love for technology with the special bonds in your life. Keep rocking, and let’s build a future filled with creativity and love! 🎉✨
